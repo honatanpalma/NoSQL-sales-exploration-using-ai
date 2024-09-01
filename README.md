@@ -14,7 +14,7 @@ The dataset used for this analysis is the "Online Retail Transaction Data" avail
 
 For more information on MongoDB Compass's Natural Language Query feature, see the official documentation: [https://www.mongodb.com/docs/compass/current/query-with-natural-language/prompt-natural-language-query/](https://www.mongodb.com/docs/compass/current/query-with-natural-language/prompt-natural-language-query/)
 
-## This project aims to answer the following business-critical questions:
+## This project explores a sample of the following common business-critical questions:
 
 ### Market basket analysis for cross-selling opportunities
 1. What are the top 3 product combinations (pairs or triplets) that are frequently purchased together? 
